@@ -1,3 +1,5 @@
+GreedySearchForMap1'a yorum satırlarının eklenmiş halidir.
+
 After adding GreedySearch script:
 Click on the object that contains the GreedySearch script
 In the Inspector window:
