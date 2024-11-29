@@ -1,0 +1,6 @@
+After adding GreedySearch script:
+Click on the object that contains the GreedySearch script
+In the Inspector window:
+You will see the Seeker and Target public fields in the script.
+Drag a Seeker object from the Hierarchy window to the Seeker field.
+Drag a Target object to the Target field.
